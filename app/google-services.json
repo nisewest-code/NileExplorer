@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450962785640",
+    "project_id": "nile-explorer-6d3db",
+    "storage_bucket": "nile-explorer-6d3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450962785640:android:dcefa8455e579c4668c2dd",
+        "android_client_info": {
+          "package_name": "com.nileex.plorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450962785640-foidg3mmj6r5eduqcaiog65u286ffh6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEjKJGplswNemxTy41jLRhT2o3uteEkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450962785640-foidg3mmj6r5eduqcaiog65u286ffh6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

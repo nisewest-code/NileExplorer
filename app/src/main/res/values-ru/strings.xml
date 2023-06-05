@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nile Explorer</string>
+    <string name="play">Играть</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+    <string name="bonus">Бонус</string>
+    <string name="music">Музыка</string>
+    <string name="on">Вкл</string>
+    <string name="off">Выкл</string>
+    <string name="description">Найдите парные элементы и разгадайте шифр</string>
+</resources>
